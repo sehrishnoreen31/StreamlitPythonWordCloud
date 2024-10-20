@@ -12,7 +12,7 @@ Generate word clouds from text input or uploaded files using Python and Streamli
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Streamlit-Python-WordCloud.git
+    git clone https://github.com/sehrishnoreen31/StreamlitPythonWordCloud.git
     cd Streamlit-Python-WordCloud
     ```
 
