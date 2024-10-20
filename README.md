@@ -4,7 +4,7 @@ Generate word clouds from text input or uploaded files using Python and Streamli
 
 ## Features
 
-- Create word clouds from `.txt`, `.pdf`, `.docx`, `.xlsx` files or given input text
+- Create word clouds from `.txt`, `.pdf`, `.docx`, `.xlsx` files or given `input text`
 - Generate word clouds from direct text input
 - Download the generated word cloud as an image
 
