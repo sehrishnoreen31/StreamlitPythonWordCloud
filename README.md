@@ -1,6 +1,7 @@
 # Streamlit-Python-WordCloud
 
 Generate word clouds from text input or uploaded files using Python and Streamlit.
+![Capture](https://github.com/user-attachments/assets/b9b35e08-9047-422a-8a7b-c73a5e3709fb)
 
 ## Features
 
